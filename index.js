@@ -1,9 +1,3 @@
-/*V = r2 * π * H
-
-r – poluprečnik osnove valjka
-H – visina
-π – konstanta Pi, približno 3,14*/
-
 function zapremina() {
     var precnik = document.getElementById("precnik").value;
     var visina = document.getElementById("visina").value;
